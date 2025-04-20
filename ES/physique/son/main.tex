@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{mdframed}
+\usepackage{xcolor}
+
+\setlength{\parskip}{1em}  % Set the space between paragraphs
+\setlength{\parindent}{0pt}  % Remove the indentation at the beginning of paragraphs
+
+\mdfsetup{
+topline=false,
+rightline=false,
+bottomline=false,
+linewidth=5pt,
+innerleftmargin=15pt,
+innerrightmargin=0pt,
+skipabove=\baselineskip,
+skipabove=1.2\baselineskip,
+}
+
+\definecolor{lightblue}{RGB}{160, 216, 239}
+\definecolor{darkblue}{RGB}{40, 100, 158}
+
+\begin{document}
+
+\title{son}
+\author{B. Ruben}
+\date{\today}
+
+\maketitle
+
+\section{puissance et intensitée sonore}
+\subsection{niveau d'intensité sonore}
+3. $10 \cdot \log \dfrac{10^{-12}}{10^{-12}} = 0$ db\\
+4. $10 \cdot \log \dfrac{1}{10^{-12}} = 120$ db\\
+5.a. 1 km : $I = \dfrac{5.0 \cdot 10^{-2}}{4 \pi \cdot 1000^2} \approx 3.9 \cdot 10^{-9}$ $W\cdot m^{-2} $\\
+10 km :  $I = \dfrac{5.0 \cdot 10^{-2}}{4 \pi \cdot 10000^2} \approx 3.9 \cdot 10^{-11}$ $W \cdot m^{-2}$\\
+b. 1 km : $10 \cdot \log \dfrac{3.9^{-9}}{10^{-12}} \approx 35.9 $ dB \\
+10 km : $10 \cdot \log \dfrac{3.9^{-11}}{10^{-12}} \approx 16 $ dB
+
+\end{document}
