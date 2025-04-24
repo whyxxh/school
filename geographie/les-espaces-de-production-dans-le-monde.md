@@ -16,3 +16,4 @@ Un espace productif désigne un ensemble de lieux dont les avantages sont mis en
 **comment la mondialisation recompose t-elle les espaces de production dans le monde?**
 
 - [[diversification-des-espaces| une diversification des espaces de production ]]
+- [[des-acteurs-variés]]

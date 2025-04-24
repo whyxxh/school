@@ -66,7 +66,6 @@ Rimbaud : Rimbaud critique la paresse de Musset et le manque de profondeur de sa
 
 Charles Baudelaire : s’en prend au comportement de Musset plus qu’à ses textes. Il le voit comme un homme vaniteux, paresseux et superficiel, qui préfère les fêtes, les salons et les jeux à un vrai travail d’écriture. Il critique aussi le fait que les jeunes pourraient prendre exemple sur ses mauvais côtés, comme son goût pour le paraître et la facilité, plutôt que sur ses œuvres.
 
-
 *Badiner* : Folâtrer, s’amuser, se livrer a des jeux puérils et/ou galants.
 
 # le romantsme
@@ -78,3 +77,15 @@ Mouvement né en Angleterre et en Allemagne fin XVIIIe siècle.
 Culte du Moi (lyrisme), mélancolie, mal du siècle, recherche de l’Ailleurs, gout pour les voyages, exotisme, communion avec la nature (mystique), romantisme noir (cf Romans gothique, fantastique, surnaturel, mystère)
 Affranchissement de l’écriture par rapport aux règles traditionnelles.
 Mélanges des genres
+
+## Les personnages romantiques
+
+- les grotesques
+Ils incarnent une epoque dépassé
+
+
+# paralèles/opposés dans l'histoire
+
+Blazius/Pluche : fonctions similaires / opposition physique
+Pluche/Bridaine : satire des religieux
+Blazius/Bridaine :  les deux hommes sont présentés comme identiquement groteques => bassesse morales. Le grotesque

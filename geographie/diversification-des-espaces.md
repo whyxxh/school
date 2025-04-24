@@ -1,4 +1,4 @@
-# une diversification des espaces
+# une diversification des espaces...
 lang=fr
 
 ## 1. La Silicon Valley
@@ -18,7 +18,7 @@ Cet espace est spécialisé dans les hautes technologies. On note ici une concen
 La Silicon Valley est un cluster (regroupement d’entreprises prenant part dans un même secteur d’activité) qui profite de la proximité d’une métropole : San Francisco, mais aussi d’une ouverture sur le monde grâce à la proximité du littoral.
 Ces dynamiques ont permit la reussite et l'integration de cet espace productif dans la mondialisation
 
-# 2. Un espace productif mondial en recomposition
+## 2. Un espace productif mondial en recomposition
 
 *1, 2 p. 110*
 
@@ -84,32 +84,7 @@ Le risque pour l'ethiopie est de devenir très dependente et d'etre mise en conc
 
 L'Ethiopie a une balance commerciale deficitaire (importations > exportations), elle exporte majoritairement des produits bruts et importe majoritairement des produits manufacturés a plus forte valeur ajoutée.
 
-L'espace productif ethiopien se transforme, ce PMA fortement peuplé, essentiellement agricole, reçois des invertisment chinois sous differentes formes.
+L'espace productif ethiopien se transforme, ce PMA fortement peuplé, essentiellement agricole, reçois des invertisment chinois sous differentes formes: la construction d'infrastructures de transport (Addis-Abeba -> Djibouti), la construction de parcs industriels (ZES), d'usines... Ces investisements revolutionnent l'espace productif ethiopien -> le pays, bien qu'enclavé, se trouve ouvert à la mondialisation grâce a la voie ferrée moderne, de la capitale vers Djibouti. Ces capitaux chinois permenttent la developpement des villes ethiopiennes qui attire la main d'oeuvre.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CAPPUCCCINO ASSASSINO, BALERINA CAPPUCCINA, BRR BRR PATAPIM, LIRILI LARILA, Thung Thung Thung Thung Thung Thung Thung Thung Thung SAHUR, 
-bombardilo crocodillo, bom-bombini guzzini, trippi troppi troppa trippa, Tralalero tralala, chimpanzini bananini, trulimera truliccina, la vacca saturno saturnita, fruli frula, brii brii bichus dichus de bichus de dichus, 
-CHICKEN JOCKEY, flint and steel, the nether, i am steve, they love crushing loaf, lava chicken, big ol' red ones, releaseee, THIS is a crafting table, I am placing blocks and shit..., 
