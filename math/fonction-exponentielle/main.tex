@@ -1,0 +1,59 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{mdframed}
+\usepackage{xcolor}
+
+\setlength{\parskip}{1em}  % Set the space between paragraphs
+\setlength{\parindent}{0pt}  % Remove the indentation at the beginning of paragraphs
+
+\mdfsetup{
+topline=false,
+rightline=false,
+bottomline=false,
+linewidth=3pt,
+innerleftmargin=15pt,
+innerrightmargin=0pt,
+skipabove=\baselineskip,
+skipabove=1.2\baselineskip,
+}
+
+\begin{document}
+
+\title{fonction exponentielle}
+\author{B. Ruben}
+\date{\today}
+
+\maketitle
+
+\section{Definitions et propriétés}
+
+\begin{mdframed}
+    \textbf{Definition:} Il existe une fonction $f$ et une seule définie et dérivable sur $\mathbb{R}$ telle que:\\ pour tout réel $x$, $f'(x) = f(x)$ et $f(0) = 1$.
+    \\ Cette fonction est appelé fonction exponentielle et notée exp':$x \mapsto$ exp($x$).
+    \\ On notera $e^x = \text{exp}(x)$, la derivée de $x \mapsto e^{x}$ est elle même.
+\end{mdframed}
+
+\begin{mdframed}
+    \textbf{propriétés algebriques:}
+
+    $e^{x+y} = e^x \cdot e^y$ \\ $e^{x-y} = \dfrac{e^x}{e^y}$ \\ $e^{-y} = \dfrac{1}{y}$
+\end{mdframed}
+
+\subsection*{Exercices}
+
+
+$e^5 = e^3 \cdot e^2 \approx 140$, $e^{-3} = \dfrac{e^0}{e^3} \approx 0.05$, $e^1 = e$
+
+$A = e^{2x+2}$, $B = e^{5x}$, $C = e^{-3}$
+
+
+4. p.192
+$e^2 = 2.7^2 \approx 7$, $3e^1 + 2 \approx 3 \cdot 2.7 + 2 = 10.1$
+
+5. $e^2 = e^5 \cdot e^{-3} \approx{ 140 \times 0.05 = 7 }$
+
+1. p. 
+1. $f'(x) = 3e^{x} - 2$
+
+\end{document}
