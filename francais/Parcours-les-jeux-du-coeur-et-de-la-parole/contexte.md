@@ -78,14 +78,30 @@ Culte du Moi (lyrisme), mélancolie, mal du siècle, recherche de l’Ailleurs, 
 Affranchissement de l’écriture par rapport aux règles traditionnelles.
 Mélanges des genres
 
-## Les personnages romantiques
+## Les personnages
 
 - les grotesques
-Ils incarnent une epoque dépassé
-
-
-# paralèles/opposés dans l'histoire
-
+Ils incarnent une epoque dépassé. Les personnages de Blazius, Bridaine et Dame Pluche -> théorie romantque des grotesques
 Blazius/Pluche : fonctions similaires / opposition physique
 Pluche/Bridaine : satire des religieux
-Blazius/Bridaine :  les deux hommes sont présentés comme identiquement groteques => bassesse morales. Le grotesque
+Blazius/Bridaine :  les deux hommes sont présentés comme identiquement groteques => bassesse morales. Le grotesque est renforcé par la presence de dame pluche entre eux " qui les repousse l'un l'autre de ses coudes d'affilés " : elle a donc valeur de repousoir physique (puisqu'elle est maigre) qui créé un decalage. Mais surtout elle accenturz le comique puisqu'elle permet de créer un autre decalage par sa présence car elle est cerné par deux hommes qu'elle meprise.
+Les grotesques renvoient donc au registre comique. Or, les passages avel leur presence sont intercalés dans une intrigue amoureuse sous-tendue, par un registre pathetique et polémique. Personnages fantoches sans épaisseur, tentant d'exercer leur pouvoir de manière abusive et egoïste sur les autres individus. Ils sont ridicules, condamnés a la repetition et enfermés dans leurs obsessions: La foi pour pluche, la prevision pour le Baron, la goinfrereie pour Bridaine et Blazius. Ils sont stylisés, stéréotypés, antiheros. Leurs idées sont contraires a leurs actions dans leurs rivalités pathetiques.
+Le Baron: figure de père mais il n'est pas un obstacle au mariage des jeunes gens comme dans les comedies traditionnelles de la commedia dell'arte (forme de théâtre popolaire, née en Italie au XVIè siècle mettant en scene des personnages typés). Le baron a dans ça façon de s'exprimer des accents tragiques inadaptés à la situation (écart comique). Le baron est obsédé par l'argent et par le fait que l'education des enfants lui a coûté 6000 écus. Il incarne la société des années 1830
+
+- Camille et Perdican
+Camille vient de camilla en latin et designe un enfant de la noblesse qui assistait les prêtres lors des sacrifices; son nom est donc un signe avant-coureur de ce qui arrivera à Rosette.
+Eloge de la nature et célébration de l'amour pour Perdican
+
+Camille est depourvu de nostalgie
+Tout les dex sont d'abord caracterisés par le desir d'un idéal : Camille recherche un idéal religieux qui lui apportera la tranquillité ("Je veux aimer mais je ne veux pas souffrir" A II S 5). Perdican lui recherche un idéal amoureux aussi simple qui des amourettes d'enfants, bien sûr ils sont tout deux en recherche d'un idéal erroné.
+C, d'abord, se trompe elle même parce qui la foi et l'amour de Dieu ne doivent pas venir en temps que fuite de la simple fuite de souffrance. Elle continuera d'ailleurs de se tromper elle-même sur P et ses motifs pour agir. P, quant a lui, recherce un idéal inateignable car ils sont présent adultes.
+Le jeu du badinage n'est plus sans consequences : il apporte la douleur et la mort. Nous avons donc deux heros marqués par le désir d'un idéal, du sublime, qu'il soit religieux ou amoureux. Pourtannt cet idéal est corrompu par leur corps mais également par leurs defauts : jalousie mensonges et caetera... 
+
+- Le Choeur 
+heritage du théâtre antique grec : commente l'action sans intervenir directement. C'est un guide pour le spectateur (indication des sentiments a éprouver). Il rappelle egalement le passé des personnages (I, 4) et connaît leur avenir (III, 4)
+*Originalité chez musset* : Le choeur s'exprime en prose et non en vers. Portée comique des portraits burlesques. Symbole de permanance face à la fuite du temps. Symbole de la condamnation des heros à la solitude. Personnage parlant de lui au singulier ou au pluriel("je prevois une lutte secréte entre le gouverneur et le curé") Le choeur assume l'exposition des personnages; Il est le temoin du drame
+
+- Rosette
+Dès l'acte III, elle est victime des manoeuvres de seduction de P, Rosette n'est pas qu'un personnage secondaire : L'enjeu de la piece vient progressivement reposer sur elle. Sa mort à la fin de la pièce en fait un veritable obstacle à l'amour de C et P. Elle devient heroîne de tragedie + critique sociale de la cruauté de 2 aristocrates qui s'amusent a jouer avec leurs sentimentsau detriment de la fille du peuple
+
+
