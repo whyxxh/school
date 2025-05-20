@@ -20,7 +20,7 @@ skipabove=1.2\baselineskip,
 
 \begin{document}
 
-\title{fonction exponentielle}
+\title{subsectionction exponentielle}
 \author{B. Ruben}
 \date{\today}
 
@@ -42,7 +42,6 @@ skipabove=1.2\baselineskip,
 
 \subsection*{Exercices}
 
-
 $e^5 = e^3 \cdot e^2 \approx 140$, $e^{-3} = \dfrac{e^0}{e^3} \approx 0.05$, $e^1 = e$
 
 $A = e^{2x+2}$, $B = e^{5x}$, $C = e^{-3}$
@@ -53,7 +52,47 @@ $e^2 = 2.7^2 \approx 7$, $3e^1 + 2 \approx 3 \cdot 2.7 + 2 = 10.1$
 
 5. $e^2 = e^5 \cdot e^{-3} \approx{ 140 \times 0.05 = 7 }$
 
-1. p. 
+1. p. 191
+
 1. $f'(x) = 3e^{x} - 2$
+
+2. $e^x\cdot4x + e^x \cdot 2x^2 + 1$\\
+racines : $x_1 = -1$, $x_2 = -1+\frac{\sqrt{2}}{2}$
+
+3. $h(x) = \dfrac{2+e^x}{6+2x}$\\
+$h = \dfrac{u}{v}$ donc $h' = \dfrac{u'v-uv'}{v^2}$\\
+u = $2 + e^x$\\
+u' = $e^x$\\
+v = $2x+6$\\
+v = $2$
+
+donc $h'(x)$ est:
+$$
+    \frac{e^x(2x+6) - 2(2 + e^x)}{(2x+6)^2}
+$$
+
+Ex. 2 p 191\\
+2. $g(x) = (x^2 + 2x-1)e^x$\\
+$g'(x) = (2x + 2)e^x + (x^2 + 2x-1)e^x = e^x(x^2 + 4x + 1)$
+
+Ex 20\\
+1. $e^{2x} = e^0$ donc $x = 0$\\
+2. impossible
+
+\section{La fonction}
+
+$exp: \mathbb{R} \rightarrow{} ]0; +\inf[$\\
+$x \mapsto e^x$\\
+$f(x) = e^x$ est positive et croissante sur $\mathbb{R}$
+
+$e^x > 0$; $e^1 = e \approx 2,718$; $e^0 = 1$; \\ $e^a = e^b \iff a = b$ (également vrai pour les inégalités)
+
+\section{les fonctions $x \mapsto exp(kx)$}
+On nomme fonction exponentielle toutes les fonctions de la forme $f(x) = e^{kx}$ avec $k \in \mathbb{R}^*_+$, ou $g(x) = e^{-kx}$
+
+Dérivées: $f'(x) = ke^{kx}$\\
+$g'(x) = -ke^{-kx}$
+
+$ax+b = 0 \iff x = \frac{-b}{a} $
 
 \end{document}

@@ -14,7 +14,7 @@ lang=fr
         - toutes les classes d'âges 
 
 3. La place des femmes dans le travail rural est dans des domaines comme la dentelle et l'agriculture
-Les femmes participent au travail des champs et s'occupent des enfants. Le temps de travail s’étale de l'enfance au plus grand âge.
+Les femmes participent au travail des champs et s' occupent des enfants. Le temps de travail s’étale de l'enfance au plus grand âge.
 
 4. Car les ruraux avaient souvent des problèmes a trouver du travail, des problèmes de qualité de vie comme la qualité de la nourriture 
 
