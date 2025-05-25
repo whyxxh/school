@@ -84,7 +84,7 @@ Le risque pour l'ethiopie est de devenir très dependente et d'etre mise en conc
 
 L'Ethiopie a une balance commerciale deficitaire (importations > exportations), elle exporte majoritairement des produits bruts et importe majoritairement des produits manufacturés a plus forte valeur ajoutée.
 
-L'espace productif ethiopien se transforme, ce PMA fortement peuplé, essentiellement agricole, reçois des invertisment chinois sous differentes formes: la construction d'infrastructures de transport (Addis-Abeba -> Djibouti), la construction de parcs industriels (ZES), d'usines... Ces investisements revolutionnent l'espace productif ethiopien -> le pays, bien qu'enclavé, se trouve ouvert à la mondialisation grâce a la voie ferrée moderne, de la capitale vers Djibouti. Ces capitaux chinois permenttent la developpement des villes ethiopiennes qui attire la main d'oeuvre.
+l'espace productif ethiopien se transforme, ce PMA fortement peuplé, essentiellement agricole, reçois des invertisment chinois sous differentes formes: la construction d'infrastructures de transport (Addis-Abeba -> Djibouti), la construction de parcs industriels (ZES), d'usines... Ces investisements revolutionnent l'espace productif ethiopien -> le pays, bien qu'enclavé, se trouve ouvert à la mondialisation grâce a la voie ferrée moderne, de la capitale vers Djibouti. Ces capitaux chinois permenttent la developpement des villes ethiopiennes qui attire la main d'oeuvre.
 
 
 

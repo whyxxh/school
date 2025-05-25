@@ -46,7 +46,3 @@ LNP decide de transformer paris de multiples façons, il confie les travaux au b
 Les travaux d'Haussmann ont profondement changé la physionomie de Paris, son aspect general, rendant la ville plus fonctionnelle, moderne et majestueuse. Ce modele de renovation urbaine touche les grandes villes de provinces. Pendant près de 20 ans, la capitale est an chantier au nom de l'hygiene, de l'esthetisme, et de la sécutité.
 
 
-
-
-
-

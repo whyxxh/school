@@ -1,7 +1,7 @@
 # 1. Make a sentence as shown in the example.
 - The boss had the fat lady sing.
-- The audience make the manager refund their money.
-- The Elephent Man make people accept him.
+- The audience made the manager refund their money.
+- The Elephent Man made people accept him.
 - These shows got people to act like savages.
 
 # 2. Fill in the sentences with the right feelings.
