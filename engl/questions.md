@@ -1,5 +1,7 @@
 
-*A. Look at the picture. What type of event is promoted? Justify your answer.** 
+
+
+* A. Look at the picture. What type of event is promoted? Justify your answer.** 
 The picture promotes a Victorian freak show. This is evident from the title "AMERICAN MIDGETS" and the tagline "THE SMALLEST PEOPLE IN THE WORLD." Furthermore we can observe these said "MIDGETS" being presented as an attraction, on a table with a showman in the background
 
 *B. Read the text. Explain what a Victorian freak show traditionally looked like (type of acts, performers, audiences).*

@@ -20,7 +20,6 @@ Pour les responsables des entreprises, apple par exemple, il n'est pas possible 
 1. La centrale d'achat sert a gerer la chaîne
 2. L'agro-alimentaire se situe de maniere generale plus localement que le textile car plus avantageux pour les acheteurs et pour la marque.
 3. Ils se repose sur les couts salariaux.
-4. **test**
 
 *correction*
 1. la centrale d'achat sert a organiser les aprovisionnement au meilleurs conditions pour repondre aux besoins.

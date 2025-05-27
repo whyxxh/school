@@ -1,18 +1,20 @@
 
-- Les mots du parcours
-Jeux : Mot au pluriel suggérant la variété.
+## this is a header
+
+* Les mots du parcours
+  - Jeux : Mot au pluriel suggérant la variété.
 Polysémie du mot "jeu" : ludique et divertissant ou cruel si au service d'une manipulation.
 Il faut se poser les questions des règles du jeu des enjeux.
 Le terme renvoie aussi au vocabulaire du théatre
 
-Coeur : Le coeur renvoie aux sentiments les plus intimes.
+  - Coeur : Le coeur renvoie aux sentiments les plus intimes.
 Le mot "coeur" renvoie a ce qui est central
 Le terme est également associé au secret, a l'indicible (avoir quelque chose sur le coeur)
 le mot "coeur" a le sens de courage (avoir du coeur a l'ouvrage)
 
 Parole : outil de communication, le language permet de convaincre (avec la raison) et de séduire. Les paroles prononcées doivent donc toujours être mises en regard des intentions des locuteurs de la vérité des faits évoqués.
 
-- Le piège des jeux du coeur et de la parole
+* Le piège des jeux du coeur et de la parole
 C et P faits l'un pour l'autre. Mais cheminement long pour que les mots révèlent enfin leur amour de manière sincère et transparente. en effet, dès que C repousse P, tous deux entrent dans des jeux qui engagent leur coeur et leurs paroles. Les pensées s'expriment alors par des ddétours et le langage devient un instrument trompeur pour séduire (cf sens étymologique), manipuler, évite l'autre. Jouer avec les mots = jouer avec le coeur de l'autre. Les paroles de C et P en contradiction parfois avec ce que leur dicte leur coeur => dilemme et piège.
 
 - Le jeu de la dissimulation : se mentir a soi-même

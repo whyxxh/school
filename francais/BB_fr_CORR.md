@@ -22,6 +22,8 @@ Gargantua est une œuvre, comique
 - Gargantua mange les pèlerins dans la salade.
 - Registre héroï-comique.
 
+* list
+
 Qui cherche à transmettre un savoir précieux
 - Une remise en question de l’enseignement
 - Critique de l’enseignement (alphabet en 5 ans)

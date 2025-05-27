@@ -23,10 +23,10 @@ La temperature du corps reste constante (37°C) parce que l'energie qu'il libere
 Ce sont les aliments et notamment la matière organique produite par les végétaux lors de la photosynthese qui forment le substrat de depart du corps humain. Lors de la respiration, l'énergie contenue dans les nutriments est convertie en ATP ou dissipé sous forme de chaleur.
 
 Les pertes de chaleur du corps sont réalisés par 4 mecanismes:
-- Convection
-- Conduction
-- Evaporation
-- Rayonnement
+* Convection
+* Conduction
+* Evaporation
+* Rayonnement
 
 En cas de variation de la température corporelle, il existe un système de régulation (passant par le système nerveux) qui un permet un retour à 37°C. Ce retour à la valeur seuil s’effectue en augmentant ou en diminuant les pertes de chaleurs et/ou le métabolisme via différents mécanismes (vasodilatation, frissons ...)
 
