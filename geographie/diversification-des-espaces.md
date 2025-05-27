@@ -3,6 +3,8 @@ lang=fr
 
 ## 1. La Silicon Valley
 
+
+
 1, 2, 3 p. 117
 
 1. Un espace structuré par les sièges sociaux des grandes entreprises (regroupant les activités de gestion et de direction) dans le domaine de l’informatique et de l’électronique. L’université de Stanford à Palo Alto est à l’origine de la concentration de ces entreprises, car il y a une complémentarité entre l’université et les entrepreneurs. On peut donc la considérer comme le pivot de cet espace productif. On trouve également des espaces résidentiels.
