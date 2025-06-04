@@ -15,6 +15,7 @@ Pour les responsables des entreprises, apple par exemple, il n'est pas possible 
 
 ## 2. L'action des FTN et les consequences territoriales.
 
+
 #### * les FTN, des acteurs majeurs de la mondialisation
 
 1. La centrale d'achat sert a gerer la chaîne

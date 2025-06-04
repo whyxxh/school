@@ -40,3 +40,19 @@ L'AFP à été fondé a la fin du XIXe sous le nom de havas et est devenu AFP en
 
 Les decodeurs du journal *Le Monde* sont des journalistes specialisés dans la verification des faits au sein du journal *Le Monde*. L'objectif est de lutter contre la désinformation afin d'aider les lecteurs a mieux comprendre l'actualité.
 
+Ca fait comme un samedi de l'année derniere mdr
+
+## comprendre le complotisme 
+
+Le complotisme est la croyance selon laquelle des événements importants sont secrètement manipulés par un groupe puissant et malveillant, souvent sans preuves solides.
+- le platisme
+- les vaccins sont dangereux (autisme)
+- les chem trails
+- la voyage sur la lune serait faux
+- covid fabriqué volontairement → reponse des scientifiques : Non conar (avec preuve)
+... 
+
+le complotisme est une attitude qui consiste a croire ou a faire croire que des evenements importants ont ete comploté. 
+En democratie le doute est legitime, en revanche, le complotisme regette systematiquement les preuves et les faits.
+
+Le complotisme provoque de la peur, menace la democratie, l'affaiblit, empeche les debats, genere et alimente la haine, 

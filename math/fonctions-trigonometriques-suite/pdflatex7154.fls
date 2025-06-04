@@ -1,0 +1,4 @@
+PWD /home/rubs/Documents/code/clang/math/fonctions-trigonometriques-suite
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf

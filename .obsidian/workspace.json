@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "9662f20ced0f3ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "208cde9711235af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ffd2d750f2d84b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geographie/recompositions-spaciales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recompositions-spaciales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0306cfb30f5e29c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d41d9faba456b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4b44fba7e32a80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7cd614da22728294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "710902974f31fddc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cc790ffa13eb674d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55970e30be819e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6ed18412a95b35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "geographie/recompositions-spaciales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for recompositions-spaciales"
+            }
+          },
+          {
+            "id": "7e0ccf230005df4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "geographie/recompositions-spaciales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from recompositions-spaciales"
+            }
+          },
+          {
+            "id": "f64c8bf786155aea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27028a3f16978c82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "geographie/recompositions-spaciales.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of recompositions-spaciales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ffd2d750f2d84b1",
+  "lastOpenFiles": [
+    "geographie/recompositions-spaciales.md~",
+    "geographie/4913"
+  ]
+}
