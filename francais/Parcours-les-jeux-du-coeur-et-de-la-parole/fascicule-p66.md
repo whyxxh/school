@@ -20,4 +20,17 @@ En quoi la parole permet elle d'exprimer les sentiments amoureux dans la piece?
 
 ## étape 4 : Construire le plan
 
-8. La parole peut exprimer des sentiments authentiques, mais elle est parfois aussi mensongère et trompeuse.
+8. La parole peut exprimer des sentiments authentiques, mais elle est parfois aussi mensongère et manipulatrice.
+
+9. *
+   - partie 1 : compliments, engagements, promesse
+   - partie 2 : paroles provocantes, paroles insincères, paroles d'orgueil
+
+## étape 5 : Rédaction
+
+10. *
+* Argument : 3 premiere lignes
+* Exemples :
+  - 1 : "Éclairés par (...) langage" 
+  - 2 : "Les personnages (...) parles » "
+

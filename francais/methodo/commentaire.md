@@ -14,6 +14,19 @@
 - theatre       : didascalies, qui parle le plus?, comedie ou tragedie?, theatre classique ou non?
 - argumentation : these, arguments et exemples, convaincre ou persuader?
 
+## methode de "Ta coach de français"
+
+1. checklist des procédé liés a l'objet d'etude
+2. observer le texte et le paratexte
+3. ou? quand? qui? quoi?
+4. analyse lineaire pour choper les procédés
+5. lier les procédés a des idées 
+6. a partir des idées construire un plan
+    - plan : 
+    1. characteristique du texte, 
+    2. un theme essentiel du texte, 
+    3. mettre en lumiere l'originalité ou un registre particulier
+
 ## map non exaustive procédé -> effet
 
 ### Procédés grammaticaux
