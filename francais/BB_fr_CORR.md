@@ -39,11 +39,14 @@ Afin d'elever les lecteurs vers l'humanisme
 Agélaste = qui ne sait pas rire
 
 ## Commentaire : Prévert, Paroles, « Grasse matinée », 1946
+
 Proposition de correction :
 -	Réflexion sur les inégalités de la société d’après-guerre.
 -	Critique de la misère sociale
 -	Poète surréaliste : présence d’une modification de la réalité grâce à la fatigue de l’homme affamé
+
 Problématique : Comment Prévert, à travers la description d’un homme affamé devenant criminel, dresse-t-il une critique de la misère sociale d’après-guerre ?
+
 L’horreur de la pauvreté
 -	Un pauvre homme qui a faim
 -	Champ lexical de la nourriture « œuf dur »
@@ -71,4 +74,3 @@ Un poème à mi-chemin entre humour et trivialité
 -	Alternance des vers de différentes tailles : mime les inégalités de cette société d’après-guerre
 -	Musicalité malgré tout : rimes en « in »
 Ouverture : Arthur Rimbaud « Les Effarés »
-

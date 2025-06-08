@@ -27,6 +27,22 @@
     2. un theme essentiel du texte, 
     3. mettre en lumiere l'originalité ou un registre particulier
 
+## les registres litteraire
+
+Ils visent à susciter une émotion particulière.
+* Satirique : Moquerie et critique 
+* Épidictique : L’éloge ou le blâme par l’amplification.
+* Comique : Faire rire.
+* Lyrique : Sentiments exprimés de manière poétique.
+* Épique : Actions héroïques, admiration (combat, guerre).
+* Fantastique : Irruption de l’irréel dans le réel.
+* Tragique : Destin funeste (mort voulue par le destin).
+* Pathétique : Sentiment de pitié par la tristesse et la douleur.
+* Élégiaque : Se plaint, regrette (souvent dans les poésies amoureuses).
+* Délibératif : Hésitations sur quoi faire en analysant les différentes solutions.
+* Didactique : Vise à nous enseigner quelque chose (un peu opposé au délibératif).
+* Polémique : Convaincre par un débat ou une confrontation des idées de l’adversaire.
+
 ## map non exaustive procédé -> effet
 
 ### Procédés grammaticaux
