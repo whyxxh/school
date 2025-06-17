@@ -174,7 +174,7 @@ Il y a toujours quelque chose à dire sur le temps.
   Exemple : Ah !
 
 * Citation : argument d’autorité
-  Exemple : “C’est la base”, comme dirait un sage alsacien.
+Exemple : “C’est la base”, comme dirait un sage alsacien.
 
 * Question rhétorique : n’attend pas de réponse
 

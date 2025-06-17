@@ -58,16 +58,21 @@ L’horreur de la pauvreté
 Une société dans laquelle il faut lutter pour survivre
 -	Un tableau satirique de la société parisienne
 -	Quadruple enchainement de conjonctions de coordination (polysyndète, répéter les conjonctions de coordinations)
--	Forme cyclique du poème (les premiers et les derniers vers se répondent) : la lutte des effarés ne s’achèvera jamais. Antépiphore.
--	Champ lexical des magasins : mise en place du décor de l’action « glace », « grand magasin », « vitrine de chez Potin », « ces vitres ».
--	Une chronique policière : un meurtre a eu lieu ! → changement de point de vue narratif (on n’est plus dans la tête de l’homme)
--	Concaténation de l’anadiplose (reprise, plusieurs fois a la suite, d’un mot ou groupe de mot a la fin d’une phrase ou d’un vers au début d’un autre.
+-	Forme cyclique du poème (les premiers et les derniers vers se répondent) : la lutte des effarés ne s’achèvera jamais.
+    Antépiphore.
+-	Champ lexical des magasins : mise en place du décor de l’action « glace », « grand magasin », « vitrine de chez Potin », «
+    ces vitres ».
+-	Une chronique policière : un meurtre a eu lieu ! → changement de point de vue narratif (on n’est plus dans la tête de
+    l’homme)
+-	Concaténation de l’anadiplose (reprise, plusieurs fois a la suite, d’un mot ou groupe de mot a la fin d’une phrase ou d’un
+    vers au début d’un autre.
 -	Allitération en « c » : violence de la scène « café-crème / café crème »
--	Paranomase : « café crème / café crime » : un crime a été commis à cause de la faim.
+-	Paronomase : « café crème / café crime » : un crime a été commis à cause de la faim.
 -	Changement de point de vue : on passe du tueur à un journaliste ? / un enquêteur ?
 Un poème à mi-chemin entre humour et trivialité
 -	L’humour poétique
--	Ironie du titre : « La grasse matinée » → l’homme est réveillé à « six heures du matin » et il meurt de faim. Jeu de mot « grasse » et faire maigre.
+-	Ironie du titre : « La grasse matinée » → l’homme est réveillé à « six heures du matin » et il meurt de faim. Jeu de mot «
+    grasse » et faire maigre.
 -	Répétition de l’adverbe « doucement » X3 : il est animalisé, ce qui justifie ici la dimension surréaliste ave la tête de veau.
 -	Dimension poétique et trivialité
 -	Présence de jurons de familiarités « il s’en fout »

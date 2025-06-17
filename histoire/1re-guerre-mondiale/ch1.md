@@ -4,11 +4,6 @@
 
 *À trouver :* *Origines, fronts et phases de la guerre (avec question 1)*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 **Moi :** Les Empires centraux sont composés de l’Autriche-Hongrie et de l’Allemagne. Ces empires donnent naissance à la Triple
 Alliance (avec l’Italie). L’Entente, ou la Triple Entente, est composée de l’Empire russe, de la France, du Royaume-Uni, et
 plus tard de pays comme la Chine et certains pays d’Amérique.
@@ -29,9 +24,10 @@ Les principaux fronts de la guerre sont :
 
 ---
 
-**Velia :** On part d’un conflit localisé dans les Balkans avec l’attentat de Sarajevo le 28 juin 1914, qui va rapidement
-entraîner une escalade militaire à cause du jeu des alliances (Triple Entente : France, Royaume-Uni, Russie / Triple Alliance :
-Allemagne, Autriche-Hongrie, Italie).
+**Velia :** 
+On part d’un conflit localisé dans les Balkans avec l’attentat de Sarajevo le 28 juin 1914, qui va rapidement entraîner une
+escalade militaire à cause du jeu des alliances (Triple Entente : France, Royaume-Uni, Russie / Triple Alliance : Allemagne,
+Autriche-Hongrie, Italie).
 
 → Conflit local → européen → mondial
 
@@ -49,8 +45,8 @@ c'est une dinguerie Chine
   sont utilisées.
 
 * En mars 1918, reprise de la guerre de mouvement : retrait de la Russie (traité de Brest-Litovsk, mars 1918, entre la Russie
-  de Lénine et les Empires centraux) en raison de révolutions internes (février – octobre 1917). Offensives allemandes à
-  l’ouest → contre-offensives alliées, aidées par l’arrivée des troupes américaines.
+  de Lénine et les Empires centraux) en raison de révolutions internes (février – octobre 1917). Offensives allemandes
+  à l’ouest → contre-offensives alliées, aidées par l’arrivée des troupes américaines.
 
 L’armistice est signé le 11 novembre 1918 dans un wagon à Rethondes.
 

@@ -5,13 +5,13 @@ lang=fr
 
 *p. 129*
 
-1.  * activités agricoles
-    * l'industrie dentellière ( travail artisanal - proto-industriel )
-    * ramonerie, maçonnerie
+1. * activités agricoles
+   * l'industrie dentellière ( travail artisanal - proto-industriel )
+   * ramonerie, maçonnerie
 
-2.  * village -> ville : pour le travail
-        - mobilité temporaire / definitive
-        - toutes les classes d'âges 
+2. * village -> ville : pour le travail
+   - mobilité temporaire / definitive
+   - toutes les classes d'âges 
 
 3. La place des femmes dans le travail rural est dans des domaines comme la dentelle et l'agriculture
 Les femmes participent au travail des champs et s' occupent des enfants. Le temps de travail s’étale de l'enfance au plus grand
@@ -29,12 +29,13 @@ du II empire, plus de 70 % de la population est rurale. Une économie centré su
 *p. 131*
 
 2. Relevez les différentes catégories d’ouvriers représentées.
-Cet atelier emploie des hommes, femmes et enfants, chaque ouvrier a une tache specialisée (transport, presse, recuperation des tuilles, installation sur le mont de charge)
+Cet atelier emploie des hommes, femmes et enfants, chaque ouvrier a une tache specialisée (transport, presse, recuperation des
+tuilles, installation sur le mont de charge)
 
 La revolution industrielle fait apparaitre une nouvelle classe sociale : la classe ouvrière.
 
-Les conditions de travail sont très difficiles, des revenus faibles, pas de possibilités d'epargner.
-Le monde ouvrier s'organisent et font des revendications
+Les conditions de travail sont très difficiles, des revenus faibles, pas de possibilités d'epargner. Le monde ouvrier
+s'organisent et font des revendications
 
 1.
 - travail des enfants
@@ -67,19 +68,31 @@ Les ouvriers réclamment des droits politiques (agir collectivement), des droits
 
 *Comparez les conditions de vie des deux classes sociales, quelle conclusion?*
 
-On peux observer une grande difference dans le budget de la famille ouvière en comparaison a celui de la famille bourgeoise. En observant le total on voit que le budget de la famille bougeoise est vien plus élevé. La repartition est par consequent restreinte.
-Le budget de la famille ouvriere est 6% de celle de la famille bourgeoise, en d'autre termes, le budget de la famille bourgeoise est 16x plus élevé que la famille ouvière. Celle ci depense 56% de son budget dans la nourriture et 15% au logement
+On peux observer une grande difference dans le budget de la famille ouvière en comparaison a celui de la famille bourgeoise. En
+observant le total on voit que le budget de la famille bougeoise est vien plus élevé. La repartition est par consequent
+restreinte. Le budget de la famille ouvriere est 6% de celle de la famille bourgeoise, en d'autre termes, le budget de la
+famille bourgeoise est 16x plus élevé que la famille ouvière. Celle ci depense 56% de son budget dans la nourriture et 15% au
+logement
 
-De grandes inégalités nous sont révélés, les ouvriers ont des condtions de vie difficiles : habitat insalubre, manque d'eau courante ... Des conditions de travail difficiles, horaires extremes (12-14h sans pause), pas d'assurances sociales/maladies, dicipline sévère.
+De grandes inégalités nous sont révélés, les ouvriers ont des condtions de vie difficiles : habitat insalubre, manque d'eau
+courante ... Des conditions de travail difficiles, horaires extremes (12-14h sans pause), pas d'assurances sociales/maladies,
+dicipline sévère.
 
 On peut voir des representations artistiques de l'epoque a propos de ces conditions : vaudevilles au théâtre ...
 
-Sous le second Empire, le monde ouvrier regroupe des hommes des femmes et des enfants soumis a des conditions de travail difficiles. Henri Tolain, dans son manifeste en 1865, (lui même ouvrier) devient un millitant politique et dénonce les conditions ouvieres. Il reclame pour les ouvriers une hausse des salaires, une amelioration des conditions de travail, la reconnaisance des droits. La question sociale est au coeur des debats politiques sous napoléon III, cette politique influence les politiques de l'empire (droit de grève, dev des cooperations ouvrières soutenues par l'état, la mise en place de sociétés de secours mutuel). 
+Sous le second Empire, le monde ouvrier regroupe des hommes des femmes et des enfants soumis a des conditions de travail
+difficiles. Henri Tolain, dans son manifeste en 1865, (lui même ouvrier) devient un millitant politique et dénonce les
+conditions ouvieres. Il reclame pour les ouvriers une hausse des salaires, une amelioration des conditions de travail, la
+reconnaisance des droits. La question sociale est au coeur des debats politiques sous napoléon III, cette politique influence
+les politiques de l'empire (droit de grève, dev des cooperations ouvrières soutenues par l'état, la mise en place de sociétés
+de secours mutuel). 
 
 *rappel: loi de 1946 → departementalisation des colonies : 1e prefet de la Réunion = Paul Demange*
 
 ## conclu
 
-Entre 1848 et 1870, L'industrialisation en france modifie en profondeur l'economie et la société même si le monde rural conserve une place importante. La revolution industrielle transforme le système productif (exploitation du charbon, exploitation de la vapeur, la mechanisation, le capitalisme ...) et entraine l'emergance d'une nouvelle classe sociale : la classe ouvrière, 
-qui ne cesse de se battre afin d'ameliorer leur conditions de vie et de travail.
+Entre 1848 et 1870, L'industrialisation en france modifie en profondeur l'economie et la société même si le monde rural
+conserve une place importante. La revolution industrielle transforme le système productif (exploitation du charbon,
+exploitation de la vapeur, la mechanisation, le capitalisme ...) et entraine l'emergance d'une nouvelle classe sociale : la
+classe ouvrière, qui ne cesse de se battre afin d'ameliorer leur conditions de vie et de travail.
 
