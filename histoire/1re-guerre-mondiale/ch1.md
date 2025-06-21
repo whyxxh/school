@@ -19,8 +19,8 @@ Les différentes phases de la guerre sont :
 
 Les principaux fronts de la guerre sont :
 
-* Le front ouest (France-Belgique / Allemagne)
-* Le front est (Russie / Allemagne-Autriche-Hongrie)
+* Le front ouest (France — Belgique / Allemagne)
+* Le front est (Russie / Allemagne — Autriche-Hongrie)
 
 ---
 
@@ -35,7 +35,7 @@ Il y a différents fronts, dont deux principaux : le front occidental (le plus i
 
 Guerre de mouvement : offensives, contre-offensives, déplacements de troupes
 
-c'est une dinguerie Chine
+C'est une dinguerie Chine
 
 * La Première Guerre mondiale démarre par une guerre de mouvement : invasion allemande via la Belgique. Les Français et les
   Britanniques stoppent leur avancée à la bataille de la Marne en 1914. Fin 1914, l’illusion d’une guerre courte disparaît.

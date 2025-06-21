@@ -11,7 +11,7 @@ Proposition de correction :
 
 Problématique : Dans quelle mesure François Rabelais utilise-il le rire comme un outil d’accès à un savoir précieux ?
 
-### developpement
+### développement
 Gargantua est une œuvre, comique
 - Un vocabulaire trivial
 - Naissance de Gargantua « Mais, à haute voix, il s’écria : « A boire ! A boire ! A boire ! », comme s’il invitant tout le monde à boire ».
@@ -22,18 +22,16 @@ Gargantua est une œuvre, comique
 - Gargantua mange les pèlerins dans la salade.
 - Registre héroï-comique.
 
-* list
-
 Qui cherche à transmettre un savoir précieux
 - Une remise en question de l’enseignement
 - Critique de l’enseignement (alphabet en 5 ans)
 - satire de la religion
 - obscurantisme des religieux
 
-Afin d'elever les lecteurs vers l'humanisme
+Afin d'élever les lecteurs vers l'humanisme
 - une apologie de la liberté
-- Observation des étoiles dans l'education 
-- une invitaion a réflechire par soi-même
+- Observation des étoiles dans l'éducation 
+- une invitation a réfléchir par soi-même
 - prise de conscience avec les savoirs transmis 
 
 Agélaste = qui ne sait pas rire
