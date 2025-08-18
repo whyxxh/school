@@ -1,6 +1,15 @@
 
 // variables
-#let vv = math.arrow
+#let vc = math.arrow
+#let vv = $vc(v)$ 
+#let uu = $vc(u)$ 
+#let inv(expression) = { $(expression)^(-1)$ }
+#let implies = $==>$
+#let impl = $==>$
+#let iff = $<==>$
+#let qed = [#v(0.2em)#h(1fr)$square.big$]
+#let cqfd = [#v(0.2em)#h(1fr)$square.big$]
+#let NNp = $NN^+$
 
 #let exo_c = counter("exercice")
 
@@ -13,12 +22,11 @@
   exercice: (bg: rgb(209, 209, 209), name: rgb(59, 59, 59)),
 )
 
-// functions
 #let conf(
-  title,
-  class,
-  author,
-  date,
+  title: "Title",
+  class: "Maths",
+  author: "Begue Ruben",
+  date: "date",
   doc
 ) = {
   set text(12pt)
@@ -33,8 +41,8 @@
     #text(14pt, weight: "bold")[#it]
     #v(6pt)
   ]
-  show raw: set text(font: "Agave") 
-  show math.equation: set text(font: "STIX Math")
+  show raw: set text(font: "JetBrains Mono NL Slashed") 
+  show math.equation: set text(font: "Libertinus Math") 
   align(center)[
     #text(16pt,  weight: "bold")[#title] \ 
     #date
@@ -77,10 +85,3 @@
   text(size: 10pt, body)
 }
 
-#let inv(expression) = { $(expression)^(-1)$ }
-#let implies = $==>$
-#let impl = $==>$
-#let iff = $<==>$
-#let qed = [#v(0.2em)#h(1fr)$square.big$]
-#let cqfd = [#v(0.2em)#h(1fr)$square.big$]
-#let NNp = $NN^+$
