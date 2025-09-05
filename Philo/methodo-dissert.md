@@ -1,0 +1,116 @@
+
+# cours de méthodologie — la dissertation
+
+* Introduction (~1 page)
+* Développement
+  - Thèse
+  - Antithèse
+  - Synthèse (pas vraiment une Synthèse juste une troisième partie)
+* Conclusion (~5 lignes)
+
+7/8 pages
+
+*voir polycopié*
+
+## Travail préparatoire au brouillon
+
+*analyse de sujet*
+
+**Sujet : la conscience permet-elle au sujet de se connaître?**
+
+La conscience | permet-elle | au sujet | de se connaître?
+
+Notions implicites:
+- l'inconscient
+- la vérité
+
+Conscience: 
+* se penser, se sentir, se représenter. 
+* Inconscience
+Sujet: 
+* personne, humain, être conscient libre digne. 
+* Objet, animal.
+Se connaître: 
+* savoir (connaissance objective), savoir ce que nous sommes -> universel / particulier.
+* S'ignorer
+
+Définitions:
+* La conscience c'est la faculté d'être présent à soi même. -> conscience réfléchie.
+* Le sujet: c'est un être conscient, pensant, libre et digne.
+Exister pour un homme, c'est unifier ses représentations dans une seule conscience.
+* Se connaître: avoir une action réflexive de retour sur soi. C'est la capacité d'être l'objet de sa propre
+connaissance.
+
+Le sujet suppose que:
+1. la conscience à un pouvoir cognitif.
+2. le sujet peut être connu.
+
+*passer du sujet à la problématique*
+
+* réponse spontanée:
+  + Oui car la capacité de se savoir être est une condition nécessaire au fait de se connaitre.
+
+* contradiction:
+  + La conscience ne nous donne qu'une image limitée et subjective.
+  + Le sujet ne peut pas être connu dans sa totalité.
+
+Problématique:
+- la capacité cognitive de la conscience: La conscience de soi permet-elle d'avoir une connaissance véritable de soi?
+- L'opacité du sujet: Le sujet est-il transparent à lui-même, ou, au contraire y a-t-il des points qui nous échappent?
+
+Plan:
+1. La conscience permet au sujet de se connaitre: la conscience de soi est l'occasion d'une saisie immédiate et
+   évidente de soi.
+2. La conscience a une connaissance limitée du sujet : le pouvoir de connaissance de la conscience est remis en question
+   par la présence d'une deuxième conscience.
+3. La connaissance de soi est une entreprise qui se construit continuellement en fonction d'un projet d'existence.
+
+## Axe 1 : La conscience permet au sujet de se connaître.
+
+*feuille Socrate*
+
+"connais-toi toi-même" 
+— Socrate -> philosophe grec, V siècle avant J.-C.
+
+C'est un impératif, donc une nécessité. Un but moral : connaître ses défauts et ses qualités pour apprendre à bien agir.
+
+Définitions:
+* La sagesse : La faculté de bien choisir, discernement.
+
+La connaissance de soi est inséparable de la sagesse.
+
+1. - 
+   + Finalité éthique : connaître ses limites, apprendre à maîtriser son corps et développer ses qualités. Apprendre a
+   discerner pour bien agir.
+   + Compréhension de la place de l'homme dans le monde : différence homme/animal-non-humain. Devoir de l'homme ->
+   développer son intellect
+2. -
+   + L'introspection : porter son regard à l'intérieur de soi.
+   + L'expérience : les épreuves de la vie révèlent notre véritable nature.
+   + Autrui : le regard de l'autre agit comme un miroir
+Se connaître est le produit de l'interaction entre moi, le monde, et les autres.
+3. Il est possible de se connaitre soi-même; mais cette connaissance est toujours limitée et inachevée.
+   + inachevée -> les expériences de vie sont inépuisables.
+   + limité -> inconscient, zone obscure et inconnue de note psychique
+   + temporaire -> la connaissance de soi n'est jamais définitive, quête permanente.
+
+*Texte: Descartes, Discours de la méthode*
+
+Thème: La vérité, la conscience.
+Thèse: "Je pense, donc je suis" c'est le socle sur lequel fonder toute connaissance. C'est la seule idée sur laquelle on
+ne peut pas douter.
+Structure du texte: (1) 1-4, (2) 4-18, (3) 18-23
+1. L'auteur fixe l'objectif de son analyse: Il cherche le fondement à sa phi.
+2. L'auteur explique sa démarche, donne sa méthode et nous indique son analyse.
+3. L'auteur affirme sa thèse: il trouve une première vérité.
+
+Explication de texte:
+
+Descartes nous expose les fondements de sa phi. 
+
+Méditation -> réflexion -> phi abstraite.
+Métaphysique: domaine de la phi qui se pose au delà du monde sensoriel. (Dieu, esprit, liberté).
+Fondement: ce qui fonde et justifie logiquement un savoir => une idée vraie.
+Mœurs: ordre pratique, orienté à l'action -> opinion.
+Recherche de la vérité: ordre théorique, monde des idées -> idée vraie, il est nécessaire de douter.
+Critère de vérité: si nous pouvons avoir le moindre doute sur une idée, elle n'est pas forcement vraie.
